@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Rakshith%20H%20N&fontSize=80&animation=fadeIn" />
+  
 
   ### 💻 Software Developer | 🧩 Problem Solver | 🚀 Tech Enthusiast
   
@@ -89,14 +89,12 @@ I am a passionate developer focused on building **efficient, scalable, and user-
 
 ## 📊 GitHub Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rak123456805&show_icons=true&theme=radical&rank_icon=github" alt="Rakshith's Stats" />
+  
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rak123456805&theme=radical" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rak123456805&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+
 
 ---
 <div align="center">
