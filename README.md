@@ -4,96 +4,60 @@ Hi there, I'm Rakshith H N 👋
 
 🚀 About Me
 
-I’m a passionate software developer focused on building scalable, efficient, and user-centric applications.
-I enjoy turning ideas into real-world solutions using modern web technologies and backend frameworks.
+I’m passionate about building efficient, scalable, and user-centric software solutions.
+I enjoy transforming ideas into real-world applications using modern web technologies and backend frameworks.
 
-I have hands-on experience with frontend, backend, and database systems, and I’m constantly learning new tools to improve my craft.
+With hands-on experience in Java, C, C++, HTML, CSS, JavaScript, React, and backend development using Node.js, Express.js, and Python FastAPI, I’m constantly learning and exploring new technologies to create impactful products.
 
-🛠️ Skills
-💻 Languages
+🛠️ Skills & Tools
+Languages
 
-Java
+Java • C • C++ • HTML • CSS • JavaScript • TypeScript • Python
 
-C
+Frameworks & Libraries
 
-C++
+React • Node.js • Express.js • Python FastAPI
 
-HTML
+Databases
 
-CSS
+MySQL • PostgreSQL • MongoDB
 
-JavaScript
+Tools & Platforms
 
-TypeScript
-
-Python
-
-⚙️ Frameworks & Libraries
-
-React
-
-Node.js
-
-Express.js
-
-Python FastAPI
-
-🗄️ Databases
-
-MySQL
-
-PostgreSQL
-
-MongoDB
-
-🧰 Tools & Platforms
-
-VS Code
-
-Git & GitHub
-
-Figma (Antigravity)
-
-XAMPP
+VS Code • Git & GitHub • Figma (Antigravity) • XAMPP
 
 🌟 Featured Projects
-🥇 Text to Video Learning Generator
+1. Text to Video Learning Generator
 
 An intelligent learning platform that converts text input into time-based video learning content.
+Users can choose a duration (15 min, 30 min, or 1 hour), and the system first analyzes feasibility to determine whether the topic can be learned within the selected time.
 
-Key Features:
+✅ If feasible, the learning flow continues as planned
 
-Select video duration: 15 min / 30 min / 1 hour
+❌ If not, users are given two smart options:
 
-Smart feasibility analysis to check if the topic can be learned within the selected time
+Crash Course
 
-If not feasible, provides two options:
+Part-by-Part Full Course
 
-⚡ Crash Course
+Includes automatic quiz generation to assess understanding
 
-📚 Part-by-Part Full Course
+Tech Stack: TypeScript • Node.js • Express.js
+(Google API integration can be added for content generation & enhancement)
 
-🔍 Automatic quiz generation to evaluate learning
+2. Serene – Your Emotional Wellbeing Companion
 
-Tech Stack:
-TypeScript • Node.js • Express.js
-(Can be extended using Google APIs for content generation)
+A mental health chatbot website designed with a calming UI, smooth scroll-triggered animations, and interactive features to support emotional wellness.
 
-🥈 Serene – Your Emotional Wellbeing Companion
+Tech Stack: HTML • CSS • JavaScript • Responsive Design
 
-A mental health chatbot website built with a calming UI, smooth scroll-triggered animations, and interactive elements to support emotional wellness.
+3. Simple Inventory Management System
 
-Tech Stack:
-HTML • CSS • JavaScript • Responsive Design
+A full-stack web application that allows users to add, update, delete, and clear inventory items, featuring a clean and professional responsive UI.
 
-🥉 Simple Inventory Management System
+Tech Stack: PHP • MySQL • HTML • CSS • JavaScript • XAMPP
 
-A full-stack web application to add, update, delete, and clear inventory items, designed with a professional and responsive UI.
-
-Tech Stack:
-PHP • MySQL • HTML • CSS • JavaScript • XAMPP
-
-🏆 Achievements & Activities
+🏆 Highlights & Achievements
 
 🎯 Participated in Advaya Hackathon
 
