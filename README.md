@@ -72,8 +72,15 @@ I am a passionate developer focused on building **efficient, scalable, and user-
 - **Assessment:** Automated quiz generation for instant feedback.
 - [**View Repository →**](https://github.com/rak123456805)
 
-### 🥈 Serene – Wellbeing Companion
-> **Mental Health Chatbot** | `HTML` • `CSS` • `JavaScript`
+### 🥈 Xploitism – Cybersecurity Sandbox
+> **Interactive Security Platform** | `React.js` • `Node.js` • `SQL` • `OWASP`
+- **Simulation:** Real-world attack vectors including SQL injection and XSS for developer education.
+- **Real-time Feedback:** Backend logic layer providing instant validation of security patches.
+- **High-Fidelity UI:** Streamlined React frontend simulating terminal and browser-based exploits.
+- [**View Repository →**](https://github.com/rak123456805/Xploitism.git)
+
+### 🥉 Serene – Wellbeing Companion
+> **Mental Health Chatbot** | `HTML` • `CSS` • `JavaScript` • `Python`
 - **Calming UX:** Implemented smooth scroll-triggered animations and responsive layout.
 - **Goal:** Providing accessible emotional support through a conversational UI.
 - [**View Repository →**](https://github.com/rak123456805)
@@ -93,8 +100,6 @@ I am a passionate developer focused on building **efficient, scalable, and user-
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rak123456805&theme=radical" alt="GitHub Streak" />
 </div>
-
-
 
 ---
 <div align="center">
