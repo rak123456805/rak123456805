@@ -70,8 +70,7 @@ I am a passionate developer focused on building **efficient, scalable, and user-
 - **Smart Logic:** Analyzes topic complexity against 15/30/60 min time slots.
 - **Adaptive UX:** Recommends *Crash Courses* vs *Full Courses* based on feasibility.
 - **Assessment:** Automated quiz generation for instant feedback.
-- [**View Repository →**](https://github.com/rak123456805/Text_to_video_Generator.git
-- )
+- [**View Repository →**](https://github.com/rak123456805/Text_to_video_Generator.git)
 
 ### 🥈 Xploitism – Cybersecurity Sandbox
 > **Interactive Security Platform** | `React.js` • `Node.js` • `SQL` • `OWASP`
