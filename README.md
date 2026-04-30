@@ -70,14 +70,15 @@ I am a passionate developer focused on building **efficient, scalable, and user-
 - **Smart Logic:** Analyzes topic complexity against 15/30/60 min time slots.
 - **Adaptive UX:** Recommends *Crash Courses* vs *Full Courses* based on feasibility.
 - **Assessment:** Automated quiz generation for instant feedback.
-- [**View Repository →**](https://github.com/rak123456805)
+- [**View Repository →**](https://github.com/rak123456805/Text_to_video_Generator.git
+- )
 
 ### 🥈 Xploitism – Cybersecurity Sandbox
 > **Interactive Security Platform** | `React.js` • `Node.js` • `SQL` • `OWASP`
 - **Simulation:** Real-world attack vectors including SQL injection and XSS for developer education.
 - **Real-time Feedback:** Backend logic layer providing instant validation of security patches.
 - **High-Fidelity UI:** Streamlined React frontend simulating terminal and browser-based exploits.
-- [**View Repository →**](https://github.com/rak123456805/xploitism-main.git)
+- [**View Repository →**](https://github.com/rak123456805/OWASP.git)
 
 ### 🥉 Serene – Wellbeing Companion
 > **Mental Health Chatbot** | `HTML` • `CSS` • `JavaScript` • `Python`
