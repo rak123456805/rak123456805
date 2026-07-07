@@ -98,8 +98,9 @@ I am a passionate software developer focused on building **efficient, scalable, 
 
 ## 📊 GitHub Stats & Activity
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=rak123456805&theme=radical" alt="GitHub Streak" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=rak123456805&theme=radical)
+
 </div>
 
 ---
