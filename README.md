@@ -99,10 +99,10 @@ I am a passionate software developer focused on building **efficient, scalable, 
 ## 📊 GitHub Stats & Activity
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rak123456805&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rak123456805&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 <div align="center">
-  Last updated: June 2026
+  Last updated: July 2026
 </div>
